@@ -14,7 +14,6 @@ With a commitment to staying current with the ever-evolving tech landscape, I br
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sksohorabhossain10/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-sohorab-hossain-7a91b6265/) 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sheikh_shourov/) 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SkSohorabH97619) 
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sksohorabhossain1994@gmail.com)
 
@@ -22,23 +21,17 @@ With a commitment to staying current with the ever-evolving tech landscape, I br
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
 🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
 :e-mail: &emsp;How to reach me: sayhitorainmaker@gmail.com.<br/>
-⚡ &emsp;Fun fact: I co-founded my country's first ever and largest digital marketing agency Analyzen.
+
 
 ### Programming Languages I Work With
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![Php Badge](https://img.shields.io/badge/-Php-7A86B8?style=for-the-badge&labelColor=black&logo=php&logoColor=7A86B8)](#)
 [![Mysql Badge](https://img.shields.io/badge/-Mysql-e97b00?style=for-the-badge&labelColor=black&logo=mysql&logoColor=e97b00)](#)
 
-### PHP Framework That i have great knowledge
-
-[![Laravel Badge](https://img.shields.io/badge/-Laravel-F13C2F?style=for-the-badge&labelColor=black&logo=laravel&logoColor=F13C2F)](#)
-[![Codeigniter Badge](https://img.shields.io/badge/-Codeigniter-dd4814?style=for-the-badge&labelColor=black&logo=codeigniter&logoColor=dd4814)](#)
-[![Symfony Badge](https://img.shields.io/badge/-Symfony-7A86B8?style=for-the-badge&labelColor=black&logo=symfony&logoColor=7A86B8)](#)
 
 ### Javascript Framework That i have great knowledge
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Nextjs Badge](https://img.shields.io/badge/-Next.js-192a56?style=for-the-badge&labelColor=black&logo=next.js&logoColor=ffffff)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Next.js Badge](https://img.shields.io/badge/-Next.js-192a56?style=for-the-badge&labelColor=black&logo=next.js&logoColor=ffffff)](#)
+[![React.js Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Node.js Badge](https://img.shields.io/badge/-nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
