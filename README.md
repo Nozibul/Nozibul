@@ -42,9 +42,9 @@ With a commitment to staying current with the ever-evolving tech landscape, I br
 
 ### Javascript Framework/Library that i have great knowledge
 
-[![Next.js Badge](https://img.shields.io/badge/-Next.js-192a56?style=for-the-badge&labelColor=black&logo=next.js&logoColor=ffffff)](#)
-[![React.js Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Node.js Badge](https://img.shields.io/badge/-nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Next js Badge](https://img.shields.io/badge/-Next.js-192a56?style=for-the-badge&labelColor=black&logo=next.js&logoColor=ffffff)](#)
+[![React js Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![Node js Badge](https://img.shields.io/badge/-nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 
 ### Database that i have great knowledge
