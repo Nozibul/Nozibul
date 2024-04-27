@@ -1,6 +1,6 @@
 ![Github Banner](assets/github-banner.jpg)
 
-## Hi there <img src="assets/wave.gif" width="28px" alt="hi"> welcome to my Profile
+## Hi there! My Name is Nozibul Islam
 
 Greetings! I'm Nozibul Islam, a passionate and versatile  Web Application developer with a deep understanding of various technologies. With a strong foundation in JavaScript, TypeScript, I specialize in frameworks like Next.js, React,js and many more, ensuring robust and scalable backend solutions.
 
@@ -10,7 +10,7 @@ In the realm of server-side development, I have a solid command of Node.js, whil
 
 With a commitment to staying current with the ever-evolving tech landscape, I bring a holistic approach to web development, ensuring that both the frontend and backend seamlessly integrate to deliver exceptional digital experiences.
 
-:coffee: &emsp;Connect with me!
+:coffee: &emsp; You can find me @!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sksohorabhossain10/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-sohorab-hossain-7a91b6265/) 
@@ -19,7 +19,7 @@ With a commitment to staying current with the ever-evolving tech landscape, I br
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("hello world")` <br/>
-🤔 &emsp;I’m looking for people who can help me with Outstanding Video ideas and executions.<br/>
+🤔 &emsp;I’m looking for people who can help me with Outstanding ideas and executions.<br/>
 :e-mail: &emsp;How to reach me: sayhitorainmaker@gmail.com.<br/>
 
 
