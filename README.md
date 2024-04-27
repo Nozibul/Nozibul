@@ -1,3 +1,5 @@
+![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQHndJi75B_1Ag/profile-displaybackgroundimage-shrink_350_1400/0/1700928330180?e=1719446400&v=beta&t=iS16rgyyqpQ-KI0zRXcg-YqqsGrrLpIfRb24Pje_Gq4)
+
 ## Hi there! My Name is Nozibul Islam
 
 Greetings! I'm Nozibul Islam, a passionate and versatile  Web Application developer with a deep understanding of various technologies. With a strong foundation in JavaScript, TypeScript, I specialize in frameworks like Next.js, React.js and many more, ensuring robust and scalable backend solutions.
@@ -69,3 +71,21 @@ In the realm of server-side development, I have a solid command of Node.js, whil
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+
+<br/>
+
+### GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nozibul)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+### Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nozibul)](https://github.com/anuraghazra/github-readme-stats)
+
+### My GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nozibul&show_icons=true)  
+
+
+
