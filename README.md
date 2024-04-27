@@ -1,5 +1,3 @@
-![Github Banner](assets/github-banner.jpg)
-
 ## Hi there! My Name is Nozibul Islam
 
 Greetings! I'm Nozibul Islam, a passionate and versatile  Web Application developer with a deep understanding of various technologies. With a strong foundation in JavaScript, TypeScript, I specialize in frameworks like Next.js, React.js and many more, ensuring robust and scalable backend solutions.
