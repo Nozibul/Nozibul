@@ -8,7 +8,7 @@ My expertise extends to Next.js, React.js and Node.js, where I excel in crafting
 
 In the realm of server-side development, I have a solid command of Node.js, while my database proficiency spans across MySQL and MongoDB. Additionally, my familiarity with AWS allows me to deploy and manage applications efficiently in the cloud.
 
-
+<br/>
 
 🌱 I’m currently learning JavaScript, TypeScript <br/>
 👯 I’m looking to collaborate on Github <br/>
@@ -18,7 +18,7 @@ In the realm of server-side development, I have a solid command of Node.js, whil
 :hearts: I enjoy programming and sharing knowledge <br/>
 :computer: Most used line of code `console.log("hello world")` <br/>
 :e-mail: How to reach me: nozibulislamspi@gmail.com<br/>
-⚡ Fun fact: Chat with friends <br/>
+⚡ Fun fact: Chat with friends <br/> <br/>
 
 
 
@@ -31,14 +31,14 @@ In the realm of server-side development, I have a solid command of Node.js, whil
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nozibulislamspi) 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nozibulislamspi)
 
-
+<br/>
 
 ### Programming Languages
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 
-
+<br/>
 
 ### Javascript Framework/Library that i have great knowledge
 
@@ -46,13 +46,13 @@ In the realm of server-side development, I have a solid command of Node.js, whil
 [![React js Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Node js Badge](https://img.shields.io/badge/-nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
-
+<br/>
 
 ### Database that i have great knowledge
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![Mysql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
 
-
+<br/>
 
 ### Others Skills that i have great knowledge
 
@@ -64,7 +64,7 @@ In the realm of server-side development, I have a solid command of Node.js, whil
 [![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](#)
 
-
+<br/>
 
 ### Familiar with this technology
 
