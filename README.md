@@ -79,9 +79,7 @@ In the realm of server-side development, I have a solid command of Node.js, whil
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nozibul)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nozibul)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
