@@ -83,9 +83,7 @@ In the realm of server-side development, I have a solid command of Node.js, whil
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nozibul)](https://github.com/anuraghazra/github-readme-stats)
 
-### My GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nozibul&show_icons=true)  
 
 
 
