@@ -17,8 +17,7 @@ In the realm of server-side development, I have a solid command of Node.js, whil
 📫 How to reach me: internet and other's technology <br/>
 :hearts: I enjoy programming and sharing knowledge <br/>
 :computer: Most used line of code `console.log("hello world")` <br/>
-:e-mail: How to reach me: nozibulislamspi@gmail.com<br/>
-⚡ Fun fact: Chat with friends <br/> <br/>
+:e-mail: How to reach me: nozibulislamspi@gmail.com<br/> <br/>
 
 
 
