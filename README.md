@@ -1,6 +1,6 @@
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQGoki0quzKzCg/profile-displaybackgroundimage-shrink_350_1400/0/1720179299560?e=1725494400&v=beta&t=vCxfJu9l3c_STfm6vSMw2vG-6HKnJKBFTZpj2ddZBuc)
 
-## Hi there! My Name is Nozibul Islam
+## Hi there! My name is Nozibul Islam
 
 Greetings! I'm a passionate and versatile  Web Application developer with a deep understanding of various technologies. With a strong foundation in JavaScript, TypeScript, I specialize in frameworks like Next.js, React.js and many more, ensuring robust and scalable backend solutions.
 
