@@ -10,7 +10,7 @@ In the realm of server-side development, I have a solid command of Node.js, whil
 
 <br/>
 
-🌱 I’m currently learning Design Principles and Design Patterns and DSA <br/>
+🌱 I’m currently learning Design Principles, Design Patterns and DSA <br/>
 👯 I’m looking to collaborate on Github <br/>
 🤔 I’m looking for help with stack overflow Google <br/>
 💬 Ask me about Full-stack Stack Developer <br/>
