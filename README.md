@@ -12,7 +12,6 @@ In the realm of server-side development, I have a solid command of Node.js, whil
 
 🌱 I’m currently learning Design Principles, Design Patterns and DSA <br/>
 👯 I’m looking to collaborate on Github <br/>
-🤔 I’m looking for help with stack overflow Google <br/>
 💬 Ask me about Full-stack Stack Developer <br/>
 📫 How to reach me: internet and other's technology <br/>
 :hearts: I enjoy programming and sharing knowledge <br/>
@@ -37,6 +36,7 @@ In the realm of server-side development, I have a solid command of Node.js, whil
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
+[![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
 
 <br/>
 
