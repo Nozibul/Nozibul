@@ -2,8 +2,7 @@
 
 ## Hi there! My name is Nozibul Islam
 
-Greetings! I'm a passionate and versatile  Web Application developer with a deep understanding of various technologies. With a strong foundation in JavaScript, TypeScript, I specialize in frameworks like Next.js, React.js and many more, ensuring robust and scalable backend solutions.
-
+Greetings! I'm a passionate and versatile  Web Application developer with a deep understanding of various technologies. With a strong foundation in JavaScript, TypeScript, Golang. I specialize in frameworks like Next.js, React.js and many more, ensuring robust and scalable backend solutions.
 My expertise extends to Next.js, React.js and Node.js, where I excel in crafting custom themes and plugins to meet specific project requirements. On the frontend, I'm well-versed in React, building dynamic and responsive user interfaces that elevate the overall user experience. Additionally, I leverage Next.js for seamless and efficient server-side rendering, providing fast-loading and SEO-friendly web applications.
 
 In the realm of server-side development, I have a solid command of Node.js, while my database proficiency spans across MySQL and MongoDB. Additionally, my familiarity with AWS allows me to deploy and manage applications efficiently in the cloud.
