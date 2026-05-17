@@ -1,92 +1,165 @@
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/v2/D5616AQGoki0quzKzCg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1720179299560?e=1780531200&v=beta&t=ACyOOYnmcPCO62pjG4w3_5dCI7YLxQm722UQrrBwSLw)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Md.%20Nozibul%20Islam&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Open%20to%20Opportunities&descSize=18&descAlignY=58&descAlign=50" />
+</p>
 
-## Hi there! My name is Nozibul Islam
-
-Greetings! I'm a passionate and versatile  Web Application developer with a deep understanding of various technologies. With a strong foundation in JavaScript, TypeScript, Golang. I specialize in frameworks like Next.js, React.js and many more, ensuring robust and scalable backend solutions.
-My expertise extends to Next.js, React.js and Node.js, where I excel in crafting custom themes and plugins to meet specific project requirements. On the frontend, I'm well-versed in React, building dynamic and responsive user interfaces that elevate the overall user experience. Additionally, I leverage Next.js for seamless and efficient server-side rendering, providing fast-loading and SEO-friendly web applications.
-
-In the realm of server-side development, I have a solid command of Node.js, while my database proficiency spans across MySQL and MongoDB. Additionally, my familiarity with AWS allows me to deploy and manage applications efficiently in the cloud.
-
-<br/>
-
-🌱 I’m currently learning Design Principles, Design Patterns and DSA <br/>
-👯 I’m looking to collaborate on Github <br/>
-💬 Ask me about Full-stack Stack Developer <br/>
-📫 How to reach me: internet and other's technology <br/>
-:hearts: I enjoy programming and sharing knowledge <br/>
-:computer: Most used line of code `console.log("hello world")` <br/>
-:e-mail: How to reach me: nozibulislamspi@gmail.com<br/> <br/>
-
-
-
-### :coffee: &emsp;You can find me and social platform @!
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nozibul/) 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nozibul8) 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nozibulislamspi@gmail.com)
-[![Leetcode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Nozibul_Islam/) 
-[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/nozibulislamspi) 
-[![DEV.TO Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nozibul_islam_113b1d5334f)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@nozibulislamspi)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=👋+Hi!+I'm+Nozibul+Islam;💻+Full-Stack+Developer+(React+%7C+Next.js+%7C+Node.js);🤖+Exploring+AI+Engineering+%26+LLM+Integration;🚀+Building+Scalable+%26+SEO-Friendly+Web+Apps;🌱+Learning+DSA+%2C+Design+Patterns+%26+System+Design;⚡+Passionate+About+Clean+Code+%26+Open+Source" alt="Typing SVG" />
+  </a>
+</p>
 
 <br/>
 
-### Programming Languages
+---
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
+## 👨‍💻 About Me
 
-<br/>
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### Javascript Framework/Library that i have great knowledge
+```typescript
+const nozibul: Developer = {
+  name     : "Md. Nozibul Islam",
+  role     : "Full-Stack Developer",
+  location : "Dhaka, Bangladesh 🇧🇩",
+  languages: ["JavaScript", "TypeScript", "Go"],
+  frontend : ["React.js", "Next.js", "Tailwind CSS", "Redux"],
+  backend  : ["Node.js", "Express.js", "Prisma", "REST API"],
+  database : ["MongoDB", "MySQL", "Redis", "Firebase"],
+  cloud    : ["AWS", "Vercel"],
+  currently: ["DSA", "Design Patterns", "System Design", "AI Engineering"],
+  openToWork: true,
+  funFact  : 'console.log("hello world") // my most used line 😄'
+};
+```
 
-[![Next js Badge](https://img.shields.io/badge/-Next.js-192a56?style=for-the-badge&labelColor=black&logo=next.js&logoColor=ffffff)](#)
-[![React js Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Node js Badge](https://img.shields.io/badge/-nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+<br clear="right"/>
 
-<br/>
+I'm a passionate and versatile **Full-Stack Developer** with a strong foundation in **JavaScript, TypeScript, and Go**. I specialize in building **scalable, SEO-friendly web applications** using **React.js and Next.js** on the frontend, and **Node.js with Express** on the backend.
 
-### Database that i have great knowledge
+I excel at crafting dynamic user interfaces, implementing server-side rendering with Next.js, and designing robust REST APIs. My database expertise spans **MongoDB and MySQL**, and I'm comfortable deploying and managing applications on **AWS**.
 
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![Mysql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
+- 🔭 &nbsp;Currently building scalable MERN & Next.js projects
+- 🤖 &nbsp;Diving into **AI Engineering** — LLMs, RAG, Agents & Prompt Engineering
+- 🌱 &nbsp;Sharpening skills in **DSA, Design Patterns & System Design**
+- 💼 &nbsp;Open to **Freelance & Full-time** opportunities worldwide
+- 💬 &nbsp;Ask me about **React, Next.js, Node.js, TypeScript, Go**
+- 📧 &nbsp;Reach me: **nozibulislamspi@gmail.com**
 
-<br/>
+---
 
-### Others Skills that i have great knowledge
+## 🛠️ Tech Stack
 
-[![Express.js Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](#)
-[![Redux Badge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)](#)
-[![Prisma Badge](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](#)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
-[![Git Badge](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](#)
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,go,python,java&theme=dark" />
+</p>
 
-<br/>
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css,figma&theme=dark" />
+</p>
 
-### Familiar with this technology
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,firebase,prisma,aws&theme=dark" />
+</p>
 
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux&theme=dark" />
+</p>
 
-<br/>
+### 🤖 AI & LLM Stack
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+</p>
 
-### Work & Freelancing 💼
+---
 
-**You can find me on the following platforms:**
+## 📊 GitHub Analytics
 
-[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/nozibul_islam?up_rollout=true)
-[![UpWork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~014e96fe7d870f6f99?mp_source=share)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nozibul&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=FFFFFF&area=true&hide_border=true&radius=8" width="98%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nozibul&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&icon_color=4FC3F7&title_color=4FC3F7" width="48%" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=Nozibul&theme=github-dark-blue&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nozibul&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=4FC3F7" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nozibul&theme=github_dark&utcOffset=6" width="40%" />
+</p>
 
+---
 
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nozibul&theme=github-dark-blue&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</p>
 
+---
 
+## 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/Nozibul/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://twitter.com/Nozibul8" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:nozibulislamspi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://dev.to/nozibul_islam_113b1d5334f" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://medium.com/@nozibulislamspi" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/Nozibul_Islam/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>&nbsp;
+  <a href="https://www.hackerrank.com/profile/nozibulislamspi" target="_blank">
+    <img src="https://img.shields.io/badge/-HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</p>
 
+### 💼 Hire Me On
+
+<p align="center">
+  <a href="https://www.fiverr.com/nozibul_islam?up_rollout=true" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/~014e96fe7d870f6f99?mp_source=share" target="_blank">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nozibul&style=for-the-badge&color=4FC3F7&label=Profile+Views" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nozibul/Nozibul/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=160&section=footer&text=Let%27s+Build+Something+Great+Together!&fontSize=26&fontColor=fff&animation=fadeIn&fontAlignY=65" />
+</p>
