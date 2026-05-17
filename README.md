@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Md.%20Nozibul%20Islam&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Open%20to%20Opportunities&descSize=18&descAlignY=58&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&text=Nozibul%20Islam&fontSize=60&color=0:8871e5,100:b678c4&stroke=b678c4&fontColor=fff" />
 </p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=👋+Hi!+I'm+Nozibul+Islam;💻+Full-Stack+Developer+(React+%7C+Next.js+%7C+Node.js);🤖+Exploring+AI+Engineering+%26+LLM+Integration;🚀+Building+Scalable+%26+SEO-Friendly+Web+Apps;🌱+Learning+DSA+%2C+Design+Patterns+%26+System+Design;⚡+Passionate+About+Clean+Code+%26+Open+Source" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=800&lines=💻+Full-Stack+Developer+(React+%7C+Next.js+%7C+Node.js);🤖+Exploring+AI+Engineering+%26+LLM+Integration;🚀+Building+Scalable+%26+SEO-Friendly+Web+Apps;🌱+Learning+DSA+%2C+Design+Patterns+%26+System+Design;⚡+Passionate+About+Clean+Code+%26+Open+Source" alt="Typing SVG" />
   </a>
 </p>
+<br/>
 
 <br/>
 
@@ -14,35 +14,36 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="Coding" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```typescript
 const nozibul: Developer = {
   name     : "Md. Nozibul Islam",
   role     : "Full-Stack Developer",
-  location : "Dhaka, Bangladesh 🇧🇩",
-  languages: ["JavaScript", "TypeScript", "Go"],
-  frontend : ["React.js", "Next.js", "Tailwind CSS", "Redux"],
-  backend  : ["Node.js", "Express.js", "Prisma", "REST API"],
+  location : "Dhaka, Bangladesh",
+  languages: ["JavaScript", "TypeScript"],
+  frontend : ["React.js", "Next.js", "Tailwind CSS", "Redux", "zustand"],
+  backend  : ["Node.js", "Express.js", "Prisma", "REST API", "GraphGL"],
   database : ["MongoDB", "MySQL", "Redis", "Firebase"],
-  cloud    : ["AWS", "Vercel"],
-  currently: ["DSA", "Design Patterns", "System Design", "AI Engineering"],
+  Testing  : ["Jest", "Puppeteer", "React Testing Library"],
+  knowledge: ["DSA", "Design Patterns", "System Design", "AI Engineering", "Agile"],
   openToWork: true,
-  funFact  : 'console.log("hello world") // my most used line 😄'
 };
 ```
 
 <br clear="right"/>
 
-I'm a passionate and versatile **Full-Stack Developer** with a strong foundation in **JavaScript, TypeScript, and Go**. I specialize in building **scalable, SEO-friendly web applications** using **React.js and Next.js** on the frontend, and **Node.js with Express** on the backend.
+---
 
-I excel at crafting dynamic user interfaces, implementing server-side rendering with Next.js, and designing robust REST APIs. My database expertise spans **MongoDB and MySQL**, and I'm comfortable deploying and managing applications on **AWS**.
+I'm a passionate and versatile **Full-Stack Developer** with a strong foundation in **JavaScript and TypeScript. I specialize in building **scalable, SEO-friendly web applications** using **React.js and Next.js** on the frontend, and **Node.js with Express** on the backend.
+
+I excel at crafting dynamic user interfaces, implementing server-side rendering with Next.js, and designing robust REST APIs. My database expertise spans **MongoDB and MySQL**.
 
 - 🔭 &nbsp;Currently building scalable MERN & Next.js projects
 - 🤖 &nbsp;Diving into **AI Engineering** — LLMs, RAG, Agents & Prompt Engineering
 - 🌱 &nbsp;Sharpening skills in **DSA, Design Patterns & System Design**
 - 💼 &nbsp;Open to **Freelance & Full-time** opportunities worldwide
-- 💬 &nbsp;Ask me about **React, Next.js, Node.js, TypeScript, Go**
+- 💬 &nbsp;Ask me about **React, Next.js, Node.js, JavaScript, TypeScript,**
 - 📧 &nbsp;Reach me: **nozibulislamspi@gmail.com**
 
 ---
@@ -51,7 +52,7 @@ I excel at crafting dynamic user interfaces, implementing server-side rendering 
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,go,python,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts&theme=dark" />
 </p>
 
 ### 🎨 Frontend
@@ -61,12 +62,12 @@ I excel at crafting dynamic user interfaces, implementing server-side rendering 
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,firebase,prisma,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,firebase,prisma&theme=dark" />
 </p>
 
 ### 🔧 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
 </p>
 
 ### 🤖 AI & LLM Stack
@@ -147,8 +148,6 @@ I excel at crafting dynamic user interfaces, implementing server-side rendering 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nozibul&style=for-the-badge&color=4FC3F7&label=Profile+Views" />
 </p>
-
----
 
 ### 🐍 Contribution Snake
 
