@@ -89,21 +89,13 @@ I excel at crafting dynamic user interfaces, implementing server-side rendering 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nozibul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&icon_color=4FC3F7&title_color=4FC3F7" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=Nozibul&theme=github-dark-blue&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" width="48%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=Nozibul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&icon_color=4FC3F7&title_color=4FC3F7" width="48%" />
+ <img src="https://nirzak-streak-stats.vercel.app?user=Nozibul&theme=github-dark-blue&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nozibul&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=4FC3F7" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nozibul&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=4FC3F7" width="40%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nozibul&theme=tokyonight&utcOffset=6" width="40%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nozibul&theme=github-dark-blue&no-frame=true&no-bg=true&margin-w=6&column=8" />
 </p>
 
 ---
