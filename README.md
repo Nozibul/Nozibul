@@ -88,12 +88,10 @@ I excel at crafting dynamic user interfaces, implementing server-side rendering 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nozibul&bg_color=0d1117&color=4FC3F7&line=4FC3F7&point=FFFFFF&area=true&hide_border=true&radius=8" width="98%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats-eight-kappa-29.vercel.app/api?username=Nozibul&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&icon_color=4FC3F7&title_color=4FC3F7" width="48%" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=Nozibul&theme=github-dark-blue&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Nozibul&theme=github-dark-blue&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" width="48%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats-eight-kappa-29.vercel.app/api/top-langs/?username=Nozibul&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=4FC3F7" width="40%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nozibul&theme=github_dark&utcOffset=6" width="40%" />
