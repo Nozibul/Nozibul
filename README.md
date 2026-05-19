@@ -94,16 +94,6 @@ I excel at crafting dynamic user interfaces, implementing server-side rendering 
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
 </p>
 
-### 🤖 AI & LLM Stack
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -135,9 +125,9 @@ I excel at crafting dynamic user interfaces, implementing server-side rendering 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://shiponchowdhury.vercel.app/details/671a42739eb16bdb6046a0ba" target="_blank">
+  <!-- <a href="https://shiponchowdhury.vercel.app/details/671a42739eb16bdb6046a0ba" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>&nbsp;
+  </a>&nbsp; -->
   <a href="https://www.linkedin.com/in/Nozibul/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
