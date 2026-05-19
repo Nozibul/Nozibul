@@ -59,7 +59,7 @@ I excel at crafting dynamic user interfaces, implementing server-side rendering 
 | 📊 Admin Dashboards | Data visualization, charts, role-based access |
 | 🔗 REST & GraphQL APIs | Scalable backend with auth & rate limiting |
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|-------|
@@ -68,7 +68,7 @@ I excel at crafting dynamic user interfaces, implementing server-side rendering 
 | 🔨 Project Three | Add your project description here | Next.js, OpenAI, Pinecone | [GitHub](https://github.com/Nozibul) · [Live](#) |
 | 🔨 Project Four | Add your project description here | React, Firebase, Redux | [GitHub](https://github.com/Nozibul) · [Live](#) |
 
-> 📌 **Replace the placeholder rows above with your real projects!**
+> 📌 **Replace the placeholder rows above with your real projects!** -->
 
 ---
 
