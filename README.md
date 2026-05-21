@@ -39,7 +39,7 @@ I'm a passionate and versatile **Full-Stack Developer** with a strong foundation
 
 I excel at crafting dynamic user interfaces, implementing server-side rendering with Next.js, and designing robust REST APIs. My database expertise spans **MongoDB and MySQL**. I'm also actively exploring **AI Engineering** — building intelligent apps with LLMs, RAG pipelines, and Agents.
 
-- 🔭 &nbsp;Currently building scalable full-stack projects
+- 🔭 &nbsp;Currently building scalable full-stack project
 - 🤖 &nbsp;Diving into **AI Engineering** — LLMs, RAG, Agents & Prompt Engineering
 - 🌱 &nbsp;Sharpening skills in **DSA, Design Patterns & System Design**
 - 💼 &nbsp;Open to **Freelance & Full-time** opportunities worldwide
