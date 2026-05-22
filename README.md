@@ -52,7 +52,7 @@ I excel at crafting dynamic user interfaces, implementing server-side rendering 
 
 | Service | Details |
 |--------|---------|
-| ⚡ Full-Stack Web Apps | React / Next.js + Node.js + MongoDB/MySQL |
+| ⚡ Full-Stack Web Apps | React.js / Next.js + Node.js + MongoDB/MySQL |
 | 🔍 SEO-Optimized Sites | Next.js SSR/SSG, meta tags, performance tuning |
 | 🤖 AI-Powered Features | RAG pipelines, LLM integration, Chatbots |
 | 🛒 E-commerce Platforms | Cart, payment gateway, order management |
