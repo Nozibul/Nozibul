@@ -20,7 +20,7 @@
 
 ```typescript
 const nozibul: Developer = {
-  name     : "Md. Nozibul Islam",
+  name     : "Md. Nozibul",
   role     : "Full-Stack Developer",
   location : "Dhaka, Bangladesh",
   languages: ["JavaScript", "TypeScript"],
