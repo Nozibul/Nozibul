@@ -125,9 +125,9 @@ I excel at crafting dynamic user interfaces, implementing server-side rendering 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <!-- <a href="https://shiponchowdhury.vercel.app/details/671a42739eb16bdb6046a0ba" target="_blank">
+  <a href="https://shiponchowdhury.vercel.app/details/671a42739eb16bdb6046a0ba" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>&nbsp; -->
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/Nozibul/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
